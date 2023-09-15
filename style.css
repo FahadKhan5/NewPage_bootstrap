@@ -1,0 +1,12 @@
+#navbarNav li a:hover{
+	background-color: blue;
+	color: white;
+	border-radius: 15px;
+}
+.list-group a:hover{
+	background-color: green;
+	color: white;
+}
+#active:hover{
+	background-color: blue;
+}
